@@ -1,0 +1,12 @@
+/Users/darriushorton/Projects/Lab13/Lab13/obj/Debug/netcoreapp3.1/Lab13.csprojAssemblyReference.cache
+/Users/darriushorton/Projects/Lab13/Lab13/obj/Debug/netcoreapp3.1/Lab13.AssemblyInfoInputs.cache
+/Users/darriushorton/Projects/Lab13/Lab13/obj/Debug/netcoreapp3.1/Lab13.AssemblyInfo.cs
+/Users/darriushorton/Projects/Lab13/Lab13/obj/Debug/netcoreapp3.1/Lab13.csproj.CoreCompileInputs.cache
+/Users/darriushorton/Projects/Lab13/Lab13/bin/Debug/netcoreapp3.1/Lab13.deps.json
+/Users/darriushorton/Projects/Lab13/Lab13/bin/Debug/netcoreapp3.1/Lab13.runtimeconfig.json
+/Users/darriushorton/Projects/Lab13/Lab13/bin/Debug/netcoreapp3.1/Lab13.runtimeconfig.dev.json
+/Users/darriushorton/Projects/Lab13/Lab13/bin/Debug/netcoreapp3.1/Lab13.dll
+/Users/darriushorton/Projects/Lab13/Lab13/bin/Debug/netcoreapp3.1/Lab13.pdb
+/Users/darriushorton/Projects/Lab13/Lab13/obj/Debug/netcoreapp3.1/Lab13.dll
+/Users/darriushorton/Projects/Lab13/Lab13/obj/Debug/netcoreapp3.1/Lab13.pdb
+/Users/darriushorton/Projects/Lab13/Lab13/obj/Debug/netcoreapp3.1/Lab13.genruntimeconfig.cache
